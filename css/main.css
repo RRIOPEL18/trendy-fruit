@@ -18,28 +18,25 @@ html {
   box-sizing: inherit;
 }
 
-body{
+body {
   margin: 0;
-}
-h2{
-
 }
 
 p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .watermelon {
-  font-family: 'Rammetto One', cursive;
+  font-family: "Rammetto One", cursive;
   background-color: #e97065;
 }
 
 .starfruit {
-  font-family: 'Gravitas One', cursive;
+  font-family: "Gravitas One", cursive;
   background-color: #fbd25e;
 }
 
 .persimmon {
-  font-family: 'Comfortaa', cursive;
+  font-family: "Comfortaa", cursive;
   background-color: #e86033;
 }
